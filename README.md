@@ -35,3 +35,4 @@
 
 注：**本项目目的是匹配 ip2region 中所有城市字段的经纬度**，共 362 个城市（ip2region 中共有 361 个城市），大部分为地级市，**不保证包含中国所有城市**
 
+匹配版本：ip2region [v2020-10-31-release](https://github.com/lionsoul2014/ip2region/releases/tag/v2020-10-31-release)，经纬度数据依据 [city-geo 第 10 次 commit](https://github.com/88250/city-geo/commit/0e7cb877cb75f4767a81d51c5921de33aacc8089)
